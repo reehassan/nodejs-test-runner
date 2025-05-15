@@ -16,7 +16,7 @@ It performs the following steps:
 
 Checks out the code using actions/checkout@v4
 Sets up Node.js using actions/setup-node@v4
-Installs dependencies with npm install
+Installs dependencies with npm installs
 Runs tests with npm test
 
 Testing
