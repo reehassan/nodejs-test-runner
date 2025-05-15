@@ -1,0 +1,15 @@
+{
+  "name": "nodejs-test-runner",
+  "version": "1.0.0",
+  "description": "A simple Node.js project with a GitHub Actions CI workflow",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "jest": "^29.7.0"
+  },
+  "author": "",
+  "license": "MIT"
+}
